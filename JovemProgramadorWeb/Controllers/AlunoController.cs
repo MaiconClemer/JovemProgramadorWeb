@@ -8,5 +8,9 @@ namespace JovemProgramadorWeb.Controllers
         {
             return View();
         }
+        public IActionResult Adicionar()
+        {
+            return View();
+        }
     }
 }
